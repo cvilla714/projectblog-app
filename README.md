@@ -11,9 +11,13 @@
 
 - Ruby
 - Rails
-- Sqlite3
+- PostgreSQL
 
 To get a local copy up and running follow these simple example steps.
+
+## Live Demo
+
+[Live Demo Link](https://fierce-stream-80806.herokuapp.com/)
 
 ### Prerequisites
 
@@ -33,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/cvilla714/projectblog-app/pulls).
 
 ## Show your support
 
